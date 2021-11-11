@@ -1,0 +1,4 @@
+# my ignore
+keys.py
+.vscode/
+__pycache__/
